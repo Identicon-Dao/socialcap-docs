@@ -21,3 +21,7 @@ General documentation and documents for the `docs.socialcapp.app` site
 
 ### How to Submit Votes
 [![How to Submit Votes](https://cdn.loom.com/sessions/thumbnails/c40e6b571f294c33a53dbed0336c6396-with-play.gif)](https://www.loom.com/share/c40e6b571f294c33a53dbed0336c6396?sid=7fcfc9d3-d873-4b0e-9cda-cdd88f559ea2)
+
+
+### Community Admin Features Overview
+[![Community Admin Features Overview](https://cdn.loom.com/sessions/thumbnails/379b3ed246fc45c182db5152c9de0982-with-play.gif)](https://www.loom.com/share/379b3ed246fc45c182db5152c9de0982)
